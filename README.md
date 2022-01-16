@@ -1,16 +1,15 @@
-### Hi there 👋
+# Am all about coding, networking and video games
 
-<!--
-**ZacharyRanes/zacharyranes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently working on
 
-Here are some ideas to get you started:
+- Starting a blog about my interests
+- Working through the 2021 advent of code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+
+- More python
+
+## Links
+
+- [My Gitlab](https://gitlab.com/ZacharyRanes) 
+- [My Linkedin](https://www.linkedin.com/in/zachary-ranes/)
