@@ -7,9 +7,10 @@
 
 ## Currently learning
 
-- More python
+- More Python
 
 ## Links
 
+- [My Blog](https://zacharyranes.github.io/)
 - [My Gitlab](https://gitlab.com/ZacharyRanes)
 - [My Linkedin](https://www.linkedin.com/in/zachary-ranes/)
