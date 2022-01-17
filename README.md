@@ -2,14 +2,14 @@
 
 ## Currently working on
 
-- Working on my Blog
+- Working on my blog
 - Working through the 2021 advent of code
 
 ## Currently learning
 
 - More Python
 
-## Links
+### Links
 
 - [My Blog](https://zacharyranes.github.io/)
 - [My Gitlab](https://gitlab.com/ZacharyRanes)
