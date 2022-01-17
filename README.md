@@ -2,7 +2,7 @@
 
 ## Currently working on
 
-- Starting a blog about my interests
+- Working on my Blog
 - Working through the 2021 advent of code
 
 ## Currently learning
