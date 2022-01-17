@@ -7,9 +7,9 @@
 
 ## Currently learning
 
-- More Python
+- Python and the python socket library
 
-### Links
+## Links
 
 - [My Blog](https://zacharyranes.github.io/)
 - [My Gitlab](https://gitlab.com/ZacharyRanes)
