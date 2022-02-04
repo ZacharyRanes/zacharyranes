@@ -14,3 +14,6 @@
 ignore = E501, E722, F401, F403, F405
 ```
 
+## VS Code launch.json
+
+- add `"cwd": "${fileDirname}"` to the generic launch.json so the working directory when running the file is the directory the file is in.
