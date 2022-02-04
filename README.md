@@ -5,9 +5,10 @@
 - Working on my blog
 - Working through the 2021 advent of code
 
-## Currently learning
+## Currently learning about
 
-- Python and the python socket library
+- Python socket library
+- Python pygame library
 
 ## Links
 
