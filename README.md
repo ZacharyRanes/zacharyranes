@@ -3,12 +3,7 @@
 ## Currently working on
 
 - Working on my blog
-- Working through the 2021 advent of code
-
-## Currently learning about
-
-- Python socket library
-- Python pygame library
+- Chip-8 Course
 
 ## Links
 
