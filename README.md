@@ -2,8 +2,8 @@
 
 ## Currently working on
 
-- Working on my blog
-- Chip-8 Course
+- My next blog post
+- A Chip-8 Course
 
 ## Links
 
