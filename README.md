@@ -2,8 +2,6 @@
 
 ## Currently working on
 
-- My next blog post
-- A Chip-8 Course
 
 ## Links
 
